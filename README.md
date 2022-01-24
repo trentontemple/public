@@ -4,6 +4,7 @@
 [![pyangbind](https://storage.googleapis.com/artifacts.disco-idea-817.appspot.com/compatibility-badges/openconfig-public:pyangbind.svg)](https://storage.googleapis.com/artifacts.disco-idea-817.appspot.com/compatibility-badges/openconfig-public:pyangbind.html)
 [![goyang/ygot](https://storage.googleapis.com/artifacts.disco-idea-817.appspot.com/compatibility-badges/openconfig-public:goyang-ygot.svg)](https://storage.googleapis.com/artifacts.disco-idea-817.appspot.com/compatibility-badges/openconfig-public:goyang-ygot.html)
 [![yanglint](https://storage.googleapis.com/artifacts.disco-idea-817.appspot.com/compatibility-badges/openconfig-public:yanglint.svg)](https://storage.googleapis.com/artifacts.disco-idea-817.appspot.com/compatibility-badges/openconfig-public:yanglint.html)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrentontemple%2Fpublic.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrentontemple%2Fpublic?ref=badge_shield)
 
 # OpenConfig
 
@@ -32,3 +33,7 @@ Please see the [OpenConfig web site](http://www.openconfig.net) for information
 for operators wishing to join OpenConfig, in particular the
 [FAQ for operators](http://openconfig.net/docs/faq-for-operators/).
 
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftrentontemple%2Fpublic.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftrentontemple%2Fpublic?ref=badge_large)
